@@ -1,0 +1,8 @@
+pandas
+pandas_ta
+numpy
+requests
+matplotlib
+mplfinance
+datetime
+alpaca
